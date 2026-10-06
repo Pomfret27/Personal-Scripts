@@ -11,9 +11,11 @@
             <option name="scope" value="" />
             <option name="skipCi" value="" />
             <option name="subject" value="" />
-            <option name="type" value="feat" />
+            <option name="type" value=" init" />
           </CommitTemplate>
         </option>
+        <option name="projectPromptId" value="default-prompt" />
+        <option name="projectTemplateId" value="default" />
       </MessageStorage>
     </option>
   </component>
